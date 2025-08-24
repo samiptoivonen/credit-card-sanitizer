@@ -47,7 +47,6 @@ The functionality is useful for banks and financial institutions that often rece
 - The regular expression in `sanitizeCreditCardNumbers` matches 13-16 digit numbers, covering most credit card formats.
 - The Luhn algorithm ensures only valid credit card numbers are masked.
 - Replace `https://localhost:3000` in `manifest.xml` with your production server URL before deployment.
-- Update the `SupportUrl` in `manifest.xml` to point to your GitHub repository.
 
 ## Deployment
 - Host the `index.html` and `main.js` files on a secure server (HTTPS required).
