@@ -1,0 +1,15 @@
+{
+  "name": "outlook-credit-card-sanitizer",
+  "version": "1.0.0",
+  "description": "Outlook add-in to mask credit card numbers in incoming emails",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx http-server -p 3000 --ssl --cert cert.pem --key key.pem"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
