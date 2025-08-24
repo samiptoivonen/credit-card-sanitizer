@@ -2,6 +2,8 @@
 
 This Outlook add-in detects and masks credit card numbers in incoming emails, displaying only the last four digits to protect sensitive information.
 
+The functionality is useful for banks and financial institutions that often receive credit card PAN numbers over email from customers, yet are subject to PCI regulations where the auditor will look for unmasked card numbers in various systems including email.
+
 ## Features
 - Detects common credit card number formats (Visa, MasterCard, Amex, etc.).
 - Validates numbers using the Luhn algorithm to avoid false positives.
