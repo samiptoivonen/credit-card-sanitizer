@@ -12,7 +12,7 @@
   <Description DefaultValue="An Outlook add-in that detects and masks credit card numbers in incoming emails, showing only the last four digits."/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://github.com/your-repo/credit-card-sanitizer"/>
+  <SupportUrl DefaultValue="https://github.com/samiptoivonen/credit-card-sanitizer"/>
   <AppDomains>
     <AppDomain>https://localhost:3000</AppDomain>
   </AppDomains>
